@@ -8,8 +8,10 @@ body{
 }
 
 .attribution {
-  font-size: 11px;
+  font-size: 15px;
   text-align: center;
+  color: hsl(0, 0%, 20%);
+  margin-bottom: 5px;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
